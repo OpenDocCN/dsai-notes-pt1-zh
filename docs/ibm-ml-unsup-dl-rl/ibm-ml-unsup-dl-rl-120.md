@@ -1,0 +1,121 @@
+# 120：IBM《机器学习（无监督学习、深度学习和强化学习、毕业项目）｜machine learning》中英字幕 p120 2_基于内容的推荐系统.zh_en -BV1eu4m1F7oz_p120-
+
+Hello and welcome In this video we'll be covering content based recommender systems。
+
+ so let's get started。
+
+![](img/2d04f62bdf9021ab669730ee36c48f8c_1.png)
+
+A content based recommendation system tries to recommend items to users based on their profile。
+
+The user's profile revolves around that user's preferences and tastes。
+
+It is shaped based on user ratings， including the number of times that user has clicked on different items or perhaps even liked those items。
+
+The recommendation process is based on the similarity between those items。
+
+ similarity or closeness of items is measured based on the similarity in the content of those items。
+
+When we say content， we're talking about things like the items category， tag， genre， and so on。
+
+For example， if we have four movies and if the user likes or ratess the first two items。
+
+ and if item 3 is similar to item 1 in terms of their genre。
+
+ the engine will also recommend item 3 to the user。In essence。
+
+ this is what content based recommender system engines do Now let's dive into a content based recommender system to see how it works。
+
+
+
+![](img/2d04f62bdf9021ab669730ee36c48f8c_3.png)
+
+Let's assume we have a data set of only six movies。
+
+ This data set shows movies that our user has watched and also the genre of each of the movies。
+
+ For example， Batman versus Superman is in the adventure superhero genre and guardians of the Galy is in the comedy adventure。
+
+ superhero and science fiction genres。😊，Let's say the user has watched and rated three movies so far。
+
+ and she has given a rating of 2 out of 10 to the first movie，10 out of 10 to the second movie。
+
+ and 8 out of 10 to the third。The task of the recommender engine is to recommend one of the three candidate movies to this user。
+
+ or in other words， we want to predict what the user's possible rating would be of the three candidate movies if she were to watch them。
+
+
+
+![](img/2d04f62bdf9021ab669730ee36c48f8c_5.png)
+
+To achieve this， we have to build the user profile。First。
+
+ we create a vector to show the users' ratings for the movies that she's already watched。
+
+ We call it input user ratings。 Then we encode the movies through the one hot encoding approach。
+
+ genre of movies are used here as a feature set。
+
+![](img/2d04f62bdf9021ab669730ee36c48f8c_7.png)
+
+We use the first three movies to make this matrix， which represents the movie feature set matrixtrix。
+
+If we multiply these two matrices， we can get the weighted feature set for the movies。
+
+
+
+![](img/2d04f62bdf9021ab669730ee36c48f8c_9.png)
+
+Let's take a look at the result。 This matrix is also called the weighted genre matrix and represents the interests of the user for each genre based on the movies that she's watched。
+
+Now， given the weighted genre matrix， we can shape the profile of our active user， essentially。
+
+ we can aggregate the weighted genres and then normalize them to find the user profile。
+
+It clearly indicates that she likes superhero movies more than other genres。
+
+ We use this profile to figure out what movie is proper to recommend to this user。
+
+
+
+![](img/2d04f62bdf9021ab669730ee36c48f8c_11.png)
+
+Recall that we also had three candidate movies for recommendation that haven't been watched by the user。
+
+ We encode these movies as well。 Now， we're in the position where we have to figure out which of them is most suited to be recommended to the user。
+
+
+
+![](img/2d04f62bdf9021ab669730ee36c48f8c_13.png)
+
+To do this， we simply multiply the user profile matrix by the candidate movie matrix。
+
+ which results in the weighted movies matrix。It shows the weight of each genre with respect to the user profile。
+
+Now， if we aggregate these weighted ratings， we get the active users possible interest level in these three movies。
+
+ In essence， it's our recommendation list， which we can sort to rank the movies and recommend them to the user。
+
+ For example， we can say that the hitchhiker's guide to the galaxy has the highest score in our list and is proper to recommend to the user。
+
+ Now， you can come back and fill the predicted ratings for the user。😊。
+
+
+
+![](img/2d04f62bdf9021ab669730ee36c48f8c_15.png)
+
+So to recap what we've discussed so far， the recommendation in a content based system is based on users taste and the content or feature set items。
+
+Such a model is very efficient。 However， in some cases， it doesn't work。For example。
+
+ assume that we have a movie in the drama genre， which the user has never watched。
+
+ So this genre would not be in her profile。 Therefore。
+
+ shell only get recommendations related to genres that are already in her profile and the recommender engine may never recommend any movie within other genres。
+
+ This problem can be solved by other types of recommender systems such as collaborative filtering。
+
+ Thanks for watching。
+
+![](img/2d04f62bdf9021ab669730ee36c48f8c_17.png)
