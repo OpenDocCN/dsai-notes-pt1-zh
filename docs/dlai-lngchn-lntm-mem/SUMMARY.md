@@ -1,0 +1,8 @@
++   [DLAI Langchain 长期记忆笔记](README.md)
++   [001：构建具备长期记忆的自主智能体 🧠](dlai-lngchn-lntm-mem-001.md)
++   [002：智能体记忆简介 🧠](dlai-lngchn-lntm-mem-002.md)
++   [003：构建基础邮件助手](dlai-lngchn-lntm-mem-003.md)
++   [004：为邮件助手添加语义记忆 📧🧠](dlai-lngchn-lntm-mem-004.md)
++   [005：为智能体添加情景记忆 🧠](dlai-lngchn-lntm-mem-005.md)
++   [006：为智能体添加程序性记忆 📧](dlai-lngchn-lntm-mem-006.md)
++   [007：总结](dlai-lngchn-lntm-mem-007.md)
