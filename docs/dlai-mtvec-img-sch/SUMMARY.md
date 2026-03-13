@@ -1,0 +1,8 @@
++   [DLAI 多向量图像检索笔记](README.md)
++   [001：课程介绍 🖼️](dlai-mtvec-img-sch-001.md)
++   [002：多向量文本检索与ColBERT](dlai-mtvec-img-sch-002.md)
++   [003：ColPali多向量图像检索方法](dlai-mtvec-img-sch-003.md)
++   [004：优化多向量表示的检索效率 🚀](dlai-mtvec-img-sch-004.md)
++   [005：Muvera嵌入](dlai-mtvec-img-sch-005.md)
++   [006：构建基于Colpali的多模态RAG系统 🛠️](dlai-mtvec-img-sch-006.md)
++   [007：总结 🎯](dlai-mtvec-img-sch-007.md)
