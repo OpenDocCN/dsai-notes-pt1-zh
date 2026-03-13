@@ -1,0 +1,7 @@
++   [DLAI 大模型配对编程笔记](README.md)
++   [001：课程介绍与概述 🚀](dlai-llm-prprog-001.md)
++   [002：开始使用PaLM API进行代码生成 🚀](dlai-llm-prprog-002.md)
++   [003：提示词模板化 🧩](dlai-llm-prprog-003.md)
++   [004：SC-Laurence_L3_v04.zh - GPT中英字幕课程资源](dlai-llm-prprog-004.md)
++   [005：利用LLM应对技术债务](dlai-llm-prprog-005.md)
++   [006：总结与展望 🎯](dlai-llm-prprog-006.md)
