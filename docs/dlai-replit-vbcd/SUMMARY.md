@@ -1,0 +1,8 @@
++   [DLAI Replit 氛围编程笔记](README.md)
++   [001：课程介绍](dlai-replit-vbcd-001.md)
++   [002：课程概述与核心原则](dlai-replit-vbcd-002.md)
++   [003：规划与构建SEO分析器](dlai-replit-vbcd-003.md)
++   [004：实现SEO分析功能](dlai-replit-vbcd-004.md)
++   [005：规划与构建投票应用 🗳️](dlai-replit-vbcd-005.md)
++   [006：增强国家公园投票应用 🏞️](dlai-replit-vbcd-006.md)
++   [007：后续步骤与最佳实践](dlai-replit-vbcd-007.md)
