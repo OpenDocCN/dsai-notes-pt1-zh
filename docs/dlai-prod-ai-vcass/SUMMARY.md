@@ -1,0 +1,8 @@
++   [DLAI 生产级人工智能语音助手笔记](README.md)
++   [001：课程介绍 🎤](dlai-prod-ai-vcass-001.md)
++   [002：语音助手概述 🎙️](dlai-prod-ai-vcass-002.md)
++   [003：端到端架构 - 第一部分](dlai-prod-ai-vcass-003.md)
++   [004：端到端架构（第二部分）🎤](dlai-prod-ai-vcass-004.md)
++   [005：语音助手核心组件 🎙️](dlai-prod-ai-vcass-005.md)
++   [006：优化延迟](dlai-prod-ai-vcass-006.md)
++   [007：总结](dlai-prod-ai-vcass-007.md)
