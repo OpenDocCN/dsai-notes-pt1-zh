@@ -79,7 +79,7 @@ def calculate_area(length, width):
 
 ```python
 def greet(name):
-    return f"Hello, 数据科学与人工智能笔记（一）!"
+    return f"Hello, {name}!"
 ```
 
 你得到了什么样的文档字符串？你对它满意吗？你还会尝试其他方法吗？或者看看是否可以使用提示词让它生成不同风格的文档字符串。我发现它通常默认为Google格式。你能覆盖这个默认设置吗？

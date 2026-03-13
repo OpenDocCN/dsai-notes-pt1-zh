@@ -81,7 +81,7 @@ for row in reader:
 ```python
 for row in reader:
     name, phone, role = row
-    print(f"Name: 数据科学与人工智能笔记（一）, Phone: {phone}, Role: {role}")
+    print(f"Name: {name}, Phone: {phone}, Role: {role}")
 ```
 
 正如我们提到的，我们解包行数据是为了不必使用索引来访问列表中的每个元素。

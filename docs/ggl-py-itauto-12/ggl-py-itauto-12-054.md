@@ -32,7 +32,7 @@ print(message)
 
 以下是使用命名占位符的方法：
 ```python
-message = "Hello 数据科学与人工智能笔记（一）! Your number is {num}.".format(name="Mikel", num=42)
+message = "Hello {name}! Your number is {num}.".format(name="Mikel", num=42)
 print(message)
 # 输出：Hello Mikel! Your number is 42.
 ```

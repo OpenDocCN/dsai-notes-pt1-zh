@@ -68,7 +68,7 @@ Python中有一个叫做 `len` 的函数，它代表长度。如果你输入 `le
 设置 `potatoes = 4.75`。
 
 然后我将写一个提示，这是一个 f-string：
-`f"写一首关于我的朋友 数据科学与人工智能笔记（一） 的对句诗，他大约有 {round(potatoes)} 个土豆。"`
+`f"写一首关于我的朋友 {name} 的对句诗，他大约有 {round(potatoes)} 个土豆。"`
 
 然后 `response = get_response(prompt)`。
 

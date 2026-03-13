@@ -51,7 +51,7 @@ def add_user(name, email):
     new_user = User(name=name, email=email)
     session.add(new_user)
     session.commit()
-    print(f"User 数据科学与人工智能笔记（一） added successfully.")
+    print(f"User {name} added successfully.")
 
 # 测试函数
 add_user("John Doe", "john.doe@example.com")
@@ -189,7 +189,7 @@ def add_user_safe(name, email):
     new_user = User(name=name, email=email) # 使用ORM对象
     session.add(new_user)
     session.commit()
-    print(f"User 数据科学与人工智能笔记（一） added safely via ORM.")
+    print(f"User {name} added safely via ORM.")
 ```
 
 ![](img/c96398fb39cf1e00e630933501c72db2_39.png)
