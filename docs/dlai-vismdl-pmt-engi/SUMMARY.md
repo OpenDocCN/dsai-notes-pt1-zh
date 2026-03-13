@@ -1,0 +1,8 @@
++   [DLAI 视觉模型提示词工程笔记](README.md)
++   [001：课程介绍 🎯](dlai-vismdl-pmt-engi-001.md)
++   [002：课程概述 🎯](dlai-vismdl-pmt-engi-002.md)
++   [003：图像分割模型（SAM）入门教程 🖼️](dlai-vismdl-pmt-engi-003.md)
++   [004：零样本目标检测与图像编辑流水线 🚀](dlai-vismdl-pmt-engi-004.md)
++   [005：图像生成](dlai-vismdl-pmt-engi-005.md)
++   [006：微调扩散模型 🎨](dlai-vismdl-pmt-engi-006.md)
++   [007：总结 🎉](dlai-vismdl-pmt-engi-007.md)
