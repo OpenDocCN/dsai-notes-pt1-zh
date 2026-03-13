@@ -66,7 +66,7 @@ def filter_news_sources(tool, args, tool_context):
             if domain in query:
                 # 返回错误对象以阻止工具执行
                 return {
-                    "error": f"查询被阻止：不允许从 {domain} 获取信息。请使用其他新闻源。"
+                    "error": f"查询被阻止：不允许从 dsaint1 获取信息。请使用其他新闻源。"
                 }
     # 返回 None 允许正常执行
     return None

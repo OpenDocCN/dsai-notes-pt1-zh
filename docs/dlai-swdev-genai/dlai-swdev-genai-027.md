@@ -29,7 +29,7 @@ app = Flask(__name__)
 
 @app.route('/api/greet/<name>')
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Hello, 数据科学与人工智能笔记（一）!"
 
 def run_app():
     app.run(host='0.0.0.0', port=5000, debug=False, use_reloader=False)

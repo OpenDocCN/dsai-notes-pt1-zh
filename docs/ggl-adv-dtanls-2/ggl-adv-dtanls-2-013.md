@@ -24,7 +24,7 @@
 ```python
 def greet_user(name):
     """向用户打招呼"""
-    print(f"Hello, {name}!")
+    print(f"Hello, 数据科学与人工智能笔记（一）!")
 
 # 调用函数
 greet_user("Alice")

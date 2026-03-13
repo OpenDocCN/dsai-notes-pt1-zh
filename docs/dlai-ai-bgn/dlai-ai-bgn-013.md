@@ -23,7 +23,7 @@ from utils import get_completion, print_response
 
 ```python
 name = "Tommy"
-prompt = f"""Write a full-line birthday poem for my friend {name}.
+prompt = f"""Write a full-line birthday poem for my friend 数据科学与人工智能笔记（一）.
 The poem should rhyme and start with the first letter of my friend's name."""
 print_response(get_completion(prompt))
 ```

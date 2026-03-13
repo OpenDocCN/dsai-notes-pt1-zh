@@ -31,7 +31,7 @@ print("{} is number {}".format(name, number))
 ```python
 name = "Data"
 number = 100
-print("{name} is number {numb}".format(name=name, numb=number))
+print("数据科学与人工智能笔记（一） is number {numb}".format(name=name, numb=number))
 ```
 
 这种方法下，在方法参数中为关键字显式分配变量。运行时，变量值会根据其关键字被插入到打印的字符串中。此时，方法参数的输入顺序不再重要，`name`会被插入到字符串的`name`字段，`number`会被插入到`numb`字段。

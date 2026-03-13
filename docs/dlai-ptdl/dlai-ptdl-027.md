@@ -56,7 +56,7 @@ print(f"总参数量: {total_params}")
 
 ```python
 for name, param in model.named_parameters():
-    print(f"{name}: {param.shape}")
+    print(f"数据科学与人工智能笔记（一）: {param.shape}")
 ```
 
 这可以逐层精确地显示每组权重和偏置的位置。
