@@ -1,0 +1,8 @@
++   [DLAI 大模型格式化输出笔记](README.md)
++   [001：课程介绍](dlai-llm-fmt-opt-001.md)
++   [002：结构化输出生成简介 🧠](dlai-llm-fmt-opt-002.md)
++   [003：如何使用结构化输出](dlai-llm-fmt-opt-003.md)
++   [004：基于重试的结构化输出](dlai-llm-fmt-opt-004.md)
++   [005：基于Logits的结构化生成原理与实践](dlai-llm-fmt-opt-005.md)
++   [006：超越JSON的结构化生成 🚀](dlai-llm-fmt-opt-006.md)
++   [007：总结与展望 🎉](dlai-llm-fmt-opt-007.md)
