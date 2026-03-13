@@ -1,0 +1,8 @@
++   [DLAI 嵌入模型笔记](README.md)
++   [001：课程介绍 🎬](dlai-embmdl-001.md)
++   [002：课程概述](dlai-embmdl-002.md)
++   [003：3.L2 - 上下文感知的词嵌入 🧠](dlai-embmdl-003.md)
++   [004：4.L3 词元嵌入与句子嵌入](dlai-embmdl-004.md)
++   [005：5.L4 训练一个双编码器 🏋️‍♂️](dlai-embmdl-005.md)
++   [006：推理](dlai-embmdl-006.md)
++   [007：课程概述](dlai-embmdl-007.md)
