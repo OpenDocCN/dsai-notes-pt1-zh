@@ -1,0 +1,8 @@
++   [DLAI SmolAgent 代码智能体笔记](README.md)
++   [001：课程介绍 🚀](dlai-smlagt-cdagt-001.md)
++   [002：智能体简史 🧠](dlai-smlagt-cdagt-002.md)
++   [003：代码智能体入门 🚀](dlai-smlagt-cdagt-003.md)
++   [004：安全代码执行 🔒](dlai-smlagt-cdagt-004.md)
++   [005：监控与评估你的智能体 🧠](dlai-smlagt-cdagt-005.md)
++   [006：构建深度研究智能体 🧠](dlai-smlagt-cdagt-006.md)
++   [007：总结 🎉](dlai-smlagt-cdagt-007.md)
