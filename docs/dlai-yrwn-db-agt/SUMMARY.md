@@ -1,0 +1,8 @@
++   [DLAI 你自己的数据库智能体构建笔记](README.md)
++   [001：课程介绍 🚀](dlai-yrwn-db-agt-001.md)
++   [002：你的第一个AI智能体 🚀](dlai-yrwn-db-agt-002.md)
++   [003：与CSV数据交互 📊](dlai-yrwn-db-agt-003.md)
++   [004：连接SQL数据库](dlai-yrwn-db-agt-004.md)
++   [005：Azure OpenAI 函数调用功能 🛠️](dlai-yrwn-db-agt-005.md)
++   [006：利用Assistants API连接SQL数据库](dlai-yrwn-db-agt-006.md)
++   [007：总结 🎯](dlai-yrwn-db-agt-007.md)
