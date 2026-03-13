@@ -1,0 +1,8 @@
++   [DLAI 提示词压缩和优化笔记](README.md)
++   [001：课程介绍 🎯](dlai-pmt-cmprs-opti-001.md)
++   [002：基础向量搜索 🔍](dlai-pmt-cmprs-opti-002.md)
++   [003：使用元数据进行过滤 🎯](dlai-pmt-cmprs-opti-003.md)
++   [004：L3 投影 - 在聚合管道中精简数据 🎯](dlai-pmt-cmprs-opti-004.md)
++   [005：L4 提升 - 使用元数据优化搜索结果排序 🚀](dlai-pmt-cmprs-opti-005.md)
++   [006：L5 提示压缩 🧠](dlai-pmt-cmprs-opti-006.md)
++   [007：总结 🎯](dlai-pmt-cmprs-opti-007.md)
