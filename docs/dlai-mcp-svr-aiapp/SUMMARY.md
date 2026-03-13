@@ -1,0 +1,8 @@
++   [DLAI MCP 服务器人工智能应用构建笔记](README.md)
++   [001：1.引言 🧠](dlai-mcp-svr-aiapp-001.md)
++   [002：构建简单的发票处理应用 💡](dlai-mcp-svr-aiapp-002.md)
++   [003：3. Box MCP 服务器简介 🧩](dlai-mcp-svr-aiapp-003.md)
++   [004：使用 Box MCP 服务器处理发票 📄](dlai-mcp-svr-aiapp-004.md)
++   [005：从单智能体到多智能体架构 🏗️](dlai-mcp-svr-aiapp-005.md)
++   [006：使用多智能体系统处理发票 📄](dlai-mcp-svr-aiapp-006.md)
++   [007：课程总结 🎉](dlai-mcp-svr-aiapp-007.md)
