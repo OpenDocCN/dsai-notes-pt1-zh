@@ -1,0 +1,8 @@
++   [DLAI Gradio 笔记](README.md)
++   [001：课程介绍与Gradio概述 🚀](dlai-gradio-001.md)
++   [002：构建两个NLP应用](dlai-gradio-002.md)
++   [003：构建图像描述应用 📸](dlai-gradio-003.md)
++   [004：构建图像生成应用 🖼️](dlai-gradio-004.md)
++   [005：构建一个图像描述与生成的游戏](dlai-gradio-005.md)
++   [006：构建开源LLM聊天机器人应用 🚀](dlai-gradio-006.md)
++   [007：HuggingFace总结与展望 🚀](dlai-gradio-007.md)
