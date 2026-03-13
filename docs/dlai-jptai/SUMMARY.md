@@ -1,0 +1,5 @@
++   [DLAI JupyterAI 笔记](README.md)
++   [001：课程介绍 🚀](dlai-jptai-001.md)
++   [002：使用Jupyter AI进行编程 🚀](dlai-jptai-002.md)
++   [003：构建AI图书研究助手 📚](dlai-jptai-003.md)
++   [004：探索股票市场数据](dlai-jptai-004.md)
