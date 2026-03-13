@@ -1,0 +1,8 @@
++   [DLAI 大模型语义搜索笔记](README.md)
++   [001：课程介绍 🎯](dlai-llm-semsch-001.md)
++   [002：关键词搜索](dlai-llm-semsch-002.md)
++   [003：词嵌入（Embeddings）入门](dlai-llm-semsch-003.md)
++   [004：稠密检索 🧠](dlai-llm-semsch-004.md)
++   [005：重排序（Rerank）技术详解 🎯](dlai-llm-semsch-005.md)
++   [006：检索增强生成（RAG）实战 🚀](dlai-llm-semsch-006.md)
++   [007：课程总结与后续资源 🎓](dlai-llm-semsch-007.md)
