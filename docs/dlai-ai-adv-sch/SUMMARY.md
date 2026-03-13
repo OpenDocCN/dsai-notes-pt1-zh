@@ -1,0 +1,8 @@
++   [DLAI 人工智能高级搜索笔记](README.md)
++   [001：课程介绍 🎬](dlai-ai-adv-sch-001.md)
++   [002：基于嵌入的检索系统概述 🧠](dlai-ai-adv-sch-002.md)
++   [003：检索的陷阱 - 当简单的向量搜索失效！🔍](dlai-ai-adv-sch-003.md)
++   [004：Lab 3 - 查询扩展 🧠](dlai-ai-adv-sch-004.md)
++   [005：Lab 4 - 交叉编码器重排序 📊](dlai-ai-adv-sch-005.md)
++   [006：Lab 5 - 嵌入适配器 🧩](dlai-ai-adv-sch-006.md)
++   [007：L6_其他检索技术 🧠](dlai-ai-adv-sch-007.md)
