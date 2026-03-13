@@ -1,0 +1,6 @@
++   [DLAI Kaggle 和 Gemini 笔记](README.md)
++   [001：基础模型与提示工程 🚀](dlai-kgl-gmn-001.md)
++   [002：嵌入与向量数据库](dlai-kgl-gmn-002.md)
++   [003：生成式AI智能体 🧠](dlai-kgl-gmn-003.md)
++   [004：领域特定大语言模型与微调 🎯](dlai-kgl-gmn-004.md)
++   [005：第五天直播与Paige Bailey – 生成式AI运维 (MLOps)](dlai-kgl-gmn-005.md)
