@@ -1,0 +1,8 @@
++   [Sebastian Rasch 从零开始的大语言模型笔记](README.md)
++   [1：设置你的代码环境 🛠️](sebastian-rasch-llm-scr-001.md)
++   [2：处理文本数据](sebastian-rasch-llm-scr-002.md)
++   [3：编码注意力机制 🧠](sebastian-rasch-llm-scr-003.md)
++   [4：从零实现GPT模型以生成文本 🧠](sebastian-rasch-llm-scr-004.md)
++   [5：在无标签数据上进行预训练](sebastian-rasch-llm-scr-005.md)
++   [6：分类微调 🎯](sebastian-rasch-llm-scr-006.md)
++   [7：指令微调 🧠](sebastian-rasch-llm-scr-007.md)
