@@ -1,0 +1,8 @@
++   [EDUCBA Hadoop 大数据笔记](README.md)
++   [001：传感器数据分析导论 🚀](educba-hdp-bgdt-001.md)
++   [002：理解大数据与MapReduce基础](educba-hdp-bgdt-002.md)
++   [003：MapReduce实战案例](educba-hdp-bgdt-003.md)
++   [004：Pig、MapReduce与Hive之间的区别](educba-hdp-bgdt-004.md)
++   [005：使用函数在Pig中处理用例 🐷](educba-hdp-bgdt-005.md)
++   [006：在Hive中处理JSON文件的方法流程 🗂️](educba-hdp-bgdt-006.md)
++   [007：基于Hive的JSON用例实践 📊](educba-hdp-bgdt-007.md)
