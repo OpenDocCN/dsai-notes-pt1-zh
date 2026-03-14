@@ -225,6 +225,7 @@
 +   [mrdbourke 一天学会 PyTorch 笔记](docs/mrdbourke-pt/README.md)
 +   [微软 MCP 入门笔记](docs/ms-mcp-intro/README.md)
 +   [英伟达 CUDA 入门笔记](docs/nv-cuda-intro/README.md)
++   [Nvidia CUDA 并行编程笔记](docs/nv-cuda-prll-prog/README.md)
 +   [唐宇迪 OpenCV+YOLO 课程笔记](docs/opencv-yolo-tangyudi/README.md)
 +   [Patrick Loeber 机器学习笔记](docs/patrick-loeber-ml/README.md)
 +   [PatrickLowber PyTorch 教程笔记](docs/patrick-loeber-pt/README.md)
