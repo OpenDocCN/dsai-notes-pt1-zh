@@ -255,6 +255,7 @@
 +   [机器学习超级复习笔记](docs/super-ml-rev-notes/README.md)
 +   [唐宇迪量化交易课笔记](docs/tangyudi-quant/README.md)
 +   [TrevorHastie 统计学习导论笔记](docs/trevorhastie-isl/README.md)
++   [优达学城无人驾驶笔记](docs/udacity-autodrv/README.md)
 +   [Valerio 机器学习与音频信号处理笔记](docs/valerio-ml-aud-sgnproc/README.md)
 +   [Vizuara 人工智能研究员训练营笔记](docs/vizuara-ai-rsch-bc/README.md)
 +   [Vizuara 从零开始的计算机视觉笔记](docs/vizuara-cv-scr/README.md)
