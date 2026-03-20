@@ -227,6 +227,7 @@
 +   [Mathworks Matlab 实用数据科学笔记](docs/mathworks-prac-ds-matlab/README.md)
 +   [Memlabs 量化加速器笔记](docs/memlabs-quant-acc/README.md)
 +   [其它](docs/misc/README.md)
++   [机器学习的神经科学笔记](docs/ml-neusci/README.md)
 +   [mrdbourke 一天学会 PyTorch 笔记](docs/mrdbourke-pt/README.md)
 +   [微软 MCP 入门笔记](docs/ms-mcp-intro/README.md)
 +   [英伟达 CUDA 入门笔记](docs/nv-cuda-intro/README.md)
