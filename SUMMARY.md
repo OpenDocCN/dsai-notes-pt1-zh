@@ -152,6 +152,7 @@
 +   [fast.ai v3 深度学习笔记](docs/fastai-v3-dl/README.md)
 +   [FreeCodeCamp 大语言模型训练营笔记](docs/fcc-llm-bc/README.md)
 +   [高盛量化交易课程笔记](docs/gaosheng-quant/README.md)
++   [生成式人工智能数学基础笔记](docs/genai-math-fund/README.md)
 +   [谷歌 ADK 实时语音智能体笔记](docs/ggl-adk-rltm-vcagt/README.md)
 +   [谷歌高级数据分析 I 笔记](docs/ggl-adv-dtanls-1/README.md)
 +   [谷歌高级数据分析 II 笔记](docs/ggl-adv-dtanls-2/README.md)
