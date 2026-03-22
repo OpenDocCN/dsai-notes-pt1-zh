@@ -1,3 +1,4 @@
++   [人工智能符号夏季学校 2025 笔记](docs/aisym-ai-smrscl-2025/README.md)
 +   [AlgoLab 计算几何笔记](docs/algolab-comp-geo/README.md)
 +   [Karpathy GPT 教程笔记](docs/andrej/README.md)
 +   [智源大会 2023 笔记](docs/baai23/README.md)
