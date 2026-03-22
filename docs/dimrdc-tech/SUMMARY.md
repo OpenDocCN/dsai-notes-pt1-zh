@@ -1,0 +1,6 @@
++   [降维技术笔记](README.md)
++   [001：降维技术基础](dimrdc-tech-001.md)
++   [002：主成分分析（PCA）🧠](dimrdc-tech-002.md)
++   [003：多维尺度分析（MDS）📊](dimrdc-tech-003.md)
++   [004：t-分布随机邻居嵌入（t-SNE）](dimrdc-tech-004.md)
++   [005：均匀流形近似与投影（UMAP）](dimrdc-tech-005.md)
