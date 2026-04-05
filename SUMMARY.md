@@ -180,6 +180,7 @@
 +   [谷歌提示词工程基础笔记](docs/ggl-pmt-fund/README.md)
 +   [谷歌 Python IT 自动化 一二课笔记](docs/ggl-py-itauto-12/README.md)
 +   [谷歌 Python IT 自动化 三四五六课笔记](docs/ggl-py-itauto-3456/README.md)
++   [谷歌量子人工智能笔记](docs/ggl-qai/README.md)
 +   [谷歌量子机器学习笔记](docs/ggl-qml/README.md)
 +   [唐宇迪商品检测课程笔记](docs/goods-detect-tangyudi/README.md)
 +   [图学习会议 2024 笔记](docs/gph-lrn-con-2024/README.md)
