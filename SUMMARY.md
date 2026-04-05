@@ -249,6 +249,7 @@
 +   [PyTorch 编译器笔记](docs/pt-cmpl/README.md)
 +   [PyTorch Day France 2025 笔记](docs/pt-day-fr-2025/README.md)
 +   [PyTorchCon 2025 会议笔记](docs/ptcon-2025/README.md)
++   [PyTorchCon India 2025 笔记](docs/ptcon-india-2025/README.md)
 +   [RayiYanuTTara OpenCL 编程笔记](docs/rayiyanutara-ocl-prog/README.md)
 +   [RWKV 原理笔记](docs/rwkv/README.md)
 +   [ScipyCon 2017 笔记](docs/scipycon-2017/README.md)
